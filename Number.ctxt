@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Number()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Number\n
+comment1.params=num
+comment1.target=boolean\ isPrime(int)
+comment1.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\ \n\ @param\ \ num\ \ \ a\ number\ to\ be\ tested\ whether\ it\ is\ prime\ or\ not\n\ @return\ \ \ \ \ true\ if\ it\ is\ prime\ and\ false\ if\ it\ is\ composite\ \n
+comment2.params=first\ second
+comment2.target=double\ primeBetweenPNT(double,\ double)
+comment3.params=first\ second
+comment3.target=double\ primeBetween(int,\ int)
+comment4.params=first\ second
+comment4.target=void\ randPrime(int,\ int)
+numComments=5
